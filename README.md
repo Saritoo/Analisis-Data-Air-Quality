@@ -26,24 +26,5 @@ Untuk menjalankan dashboard, pastikan Anda berada di direktori root proyek, kemu
 streamlit run Dashboard/dashboard.py
 ```
 
-## Struktur Proyek
-```
-submission_analisdata_SahrulR/
-├── Dashboard
-│   ├── dashboard.py
-│   ├── analisiseda.py
-│   ├── analisislanjut.py
-│   └── data_AirQuality_clean.csv
-├── data
-│   ├── hourly_avg_eda.csv
-│   ├── weekday_avg_eda.csv
-│   └── yearly_avg_eda.csv
-├── README.md
-├── requirements.txt
-└── url.txt
-```
-
-## Data Source URL
-Lihat file `url.txt` untuk informasi sumber data yang digunakan.
-
-Happy analyzing!
+## Dashboard URL
+Lihat file `url.txt` untuk url dashboard.
