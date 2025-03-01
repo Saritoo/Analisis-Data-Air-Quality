@@ -1,5 +1,2 @@
-# URL Data Kualitas Udara
-https://raw.githubusercontent.com/marceloreis/HTI/master/PRSA_Data_20130301-20170228/
-
-# URL GeoJSON Peta Dunia
-https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson
+# URL Dashboard Kualitas Udara
+https://udaradatasarito.streamlit.app/
